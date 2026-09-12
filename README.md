@@ -1,1 +1,1 @@
-# MobileSales-Analysis-SQL-PowerBI-Project
+# MobileSales-Analysis-PowerBI-Project
